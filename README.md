@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
@@ -46,5 +47,5 @@
 
 <h2 align="center">🐍 Snake Game 🐍</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
