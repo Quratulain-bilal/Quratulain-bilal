@@ -1,73 +1,91 @@
+<h1 align="center">Hi 👋, I'm Quratulain Shah</h1>
+<h3 align="center">A Passionate Frontend Developer from Pakistan 🚀</h3>
 
-
-
-<h2 align="left">Hi 👋! My name is Quratulain Shah, and I'm a passionate Frontend Developer from Pakistan.</h2>
-
-<h3 align="left">🚀 Turning Ideas into Interactive Experiences</h3>
-<p align="left">
-  I specialize in building modern, responsive, and user-friendly web applications using cutting-edge technologies like <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and <strong>TypeScript</strong>. With a keen eye for design and a love for clean code, I strive to create seamless digital experiences that leave a lasting impression.
-</p>
-
-<h3 align="left">💡 What Drives Me?</h3>
-<p align="left">
-  I believe in the power of technology to solve real-world problems. Whether it's crafting pixel-perfect UIs or optimizing performance, I'm always excited to take on new challenges and push the boundaries of what's possible on the web.
-</p>
-
-<h3 align="left">🌱 Always Learning, Always Growing</h3>
-<p align="left">
-  The tech world is constantly evolving, and so am I! I'm always exploring new tools, frameworks, and best practices to stay ahead of the curve and deliver top-notch solutions.
-</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quratulain-bilal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quratulain-bilal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:aimoshahs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+  <a href="https://github.com/Quratulain-bilal">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality;Building+Modern+Web+Apps;Always+Learning+%26+Growing" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/quratulain-shah-7bb869316" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/stelalvna" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</div>
+  <a href="mailto:aimoshahs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+### 🛠️ Tech Stack
 
-<h2 align="center">🐍 Snake Game 🐍</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Quratulain-bilal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quratulain-bilal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quratulain-bilal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 🎯 What I Do
+
+- 🌐 **Frontend Development**: Building responsive and user-friendly web applications.
+- 🎨 **UI/UX Design**: Crafting pixel-perfect designs with a focus on user experience.
+- 🛠️ **Problem Solving**: Turning complex problems into simple, elegant solutions.
+- 📚 **Continuous Learning**: Always exploring new technologies and best practices.
+
+---
+
+### 🐍 Snake Eating My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+### 💬 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/quratulain-shah-7bb869316" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/stelalvna" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:aimoshahs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Quratulain-bilal&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
