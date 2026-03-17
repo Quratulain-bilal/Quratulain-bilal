@@ -122,20 +122,10 @@
 </div>
 
 <!-- Retro Gaming Section -->
-<div align="center">
-  <h2>🎯 GAME ACHIEVEMENTS UNLOCKED 🎯</h2>
-  
-  | 🏆 Achievement | 📊 Level | ⭐ XP |
-  |---|---|---|
-  | Frontend Developer | Level 85 | ⭐⭐⭐⭐⭐ |
-  | React Master | Level 70 | ⭐⭐⭐⭐ |
-  | Problem Solver | Level 60 | ⭐⭐⭐⭐ |
-  | UI/UX Designer | Level 55 | ⭐⭐⭐ |
-  | Open Source Contributor | Level 40 | ⭐⭐⭐ |
-</div>
+
 
 <!-- Music Player Style -->
-<h2 align="center">🎵 NOW PLAYING 🎵</h2>
+
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00FFFF&bar_color_cover=true" width="300"/>
@@ -181,12 +171,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=GAME+COMPLETE!;HIGH+SCORE:+100%25;PLAY+AGAIN?+PRESS+%5BR%5D" alt="Game Over SVG" />
 </p>
 
-<!-- Support Button -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/quratulain">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" />
-  </a>
-</p>
 
 <!-- Footer Wave -->
 <p align="center">
