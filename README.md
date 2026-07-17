@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Banner -->
-  <img src="assets/banner.png" alt="Quratulain Shah Banner" width="100%">
+  <img src="/banner.png" alt="Quratulain Shah Banner" width="100%">
   
   <br><br>
 
