@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img src="./banner.png" alt="Quratulain Shah — Agentic AI Engineer" width="100%">
@@ -644,28 +643,50 @@ open_to:   open source collaboration · agentic AI roles · technical writing
      https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
      then swap the domain in those two URLs. -->
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quratulain-bilal&theme=default" width="90%" alt="Profile Summary" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quratulain-bilal&theme=default" height="185" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quratulain-bilal&theme=default" height="185" alt="Most Used Languages" />
-</p>
+<!-- ── Contribution rhythm ─────────────────────────────────────────── -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Quratulain-bilal&bg_color=0f172a&color=e2e8f0&line=0D9488&point=8B5CF6&area=true&area_color=0D9488&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Activity Graph" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quratulain-bilal&theme=default" height="185" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Quratulain-bilal&theme=default&utcOffset=5" height="185" alt="Productive Time" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Quratulain-bilal&hide_border=true&ring=0D9488&fire=8B5CF6&currStreakLabel=0D9488" height="180" alt="Streak Stats" />
-</p>
+<!-- ── Streak ──────────────────────────────────────────────────────── -->
+<img src="https://streak-stats.demolab.com?user=Quratulain-bilal&hide_border=true&background=0f172a&border=1e293b&stroke=1e293b&ring=0D9488&fire=8B5CF6&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=0D9488&sideLabels=94a3b8&dates=64748b" width="72%" alt="Streak Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quratulain-bilal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0D9488&icon_color=8B5CF6&theme=default" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quratulain-bilal&layout=compact&langs_count=8&hide_border=true&title_color=0D9488&theme=default" height="170" alt="Top Languages" />
-</p>
+<br><br>
+
+<!-- ── Profile overview ────────────────────────────────────────────── -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quratulain-bilal&theme=github_dark" width="94%" alt="Profile Summary" />
+
+<br><br>
+
+<!-- ── Language & habit breakdown, as one aligned grid ─────────────── -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quratulain-bilal&theme=github_dark" width="100%" alt="Repos per Language" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quratulain-bilal&theme=github_dark" width="100%" alt="Most Used Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quratulain-bilal&theme=github_dark" width="100%" alt="Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Quratulain-bilal&theme=github_dark&utcOffset=5" width="100%" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ── Bonus cards — blank if the free instance is rate-limited ────── -->
+<img src="https://github-readme-stats.vercel.app/api?username=Quratulain-bilal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=0D9488&icon_color=8B5CF6&text_color=e2e8f0" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quratulain-bilal&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=0D9488&text_color=e2e8f0" height="165" alt="Top Languages" />
+
+</div>
 
 ---
 
