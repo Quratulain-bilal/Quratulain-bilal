@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./banner.png" alt="Quratulain Shah — Agentic AI Engineer" width="100%">
+  <img src="./https://github.com/Quratulain-bilal/Quratulain-bilal/blob/main/WhatsApp%20Image%202026-06-07%20at%209.36.22%20PM.jpeg" alt="Quratulain Shah — Agentic AI Engineer" width="100%">
 
   <br>
 
