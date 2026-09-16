@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="1789596523450.png" alt="Quratulain Shah — Agentic AI Engineer" width="100%">
+  <img src="1789597065710.png" alt="Quratulain Shah — Agentic AI Engineer" width="100%">
 
   <br>
 
