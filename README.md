@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="WhatsApp Image 2026-06-07 at 9.36.22 PM.jpeg" alt="Quratulain Shah — Agentic AI Engineer" width="100%">
+  <img src="1789596523450.png" alt="Quratulain Shah — Agentic AI Engineer" width="100%">
 
   <br>
 
