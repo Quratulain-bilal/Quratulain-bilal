@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Gemini_Generated_Image_7f5gem7f5gem7f5g.jpg" alt="Quratulain Shah — Agentic AI Engineer" width="100%">
+  <img src="Gemini_Generated_Image_cslo3wcslo3wcslo.jpg" alt="Quratulain Shah — Agentic AI Engineer" width="100%">
 
   <br>
 
